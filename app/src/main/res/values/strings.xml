@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PAAVO</string>
+    
+    <string name="main_label">PAAVO</string>
+
+    <string-array name="soundNames">
+        <item>Jah</item>
+        <item>Jälle häda</item>
+        <item>Khmkhm</item>
+        <item>Ei</item>
+        <item>Köha</item>
+        <item>Mina</item>
+        <item>Unskš</item>
+        <item>:(</item>
+        <item>Ära Näpi</item>
+        <item>Alles ärkasin</item>
+        <item>Salmiakki</item>
+        <item>Suomi</item>
+    </string-array>
+
+    <string name="action_send">Share</string>
+    <string name="action_ringtone">Save as...</string>
+    <string name="action_favorite">Download</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5698320091626063/8444030642</string>
+
+</resources>
+
