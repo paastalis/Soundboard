@@ -54,9 +54,10 @@ public class SoundboardActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_soundboard);
 
-        if (appUpdate())
+        if (appUpdate()) {
             Log.d(LOG_TAG, "App update available!");
-
+        }
+        
         MobileAds.initialize(this, "ca-app-pub-5698320091626063~9547043538");
 
         mAdview = (AdView)findViewById(R.id.adView);
